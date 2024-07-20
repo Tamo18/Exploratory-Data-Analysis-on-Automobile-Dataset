@@ -9,7 +9,7 @@
 
 ### Table of Contents :-
 
-#### Importing required libraries
+- Importing required libraries
 - Pre processing data in Python
 - Data Cleaning
 - Dealing Missing values
